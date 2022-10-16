@@ -13,4 +13,4 @@
 docker-compose up -d
 ```
 
-6. Run app: ```npm start:dev```
+6. Run app: ```npm run start:dev```
